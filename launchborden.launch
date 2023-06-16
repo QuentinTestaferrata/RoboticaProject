@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="plaats_borden" type="xArmScript.py" name="my_node" output="screen"/>
+</launch>
